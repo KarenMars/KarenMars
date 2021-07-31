@@ -11,14 +11,16 @@ I'm KarenMars and I am currently finishing my Embedded Systems Master degree at 
 I am open to job opportunities related to machine learning and deep learning. To be specfic, my master thesis is about automatic speech recognition. I would be happy to start my career in the field of speech after my graduation. You can contact me via LinkedIn if you have a related opportunity to offer, thank you. 
 
 ### Skills  
-**Programming languages:** Python, Bash
+- **Programming languages:** Python, Bash
+- **Tools:** Pytorch, Kaldi
+- **Operating Systems:** Linux
 
-**Tools:** Pytorch，Kaldi
-
-**Operating Systems:** Linux
-
-
-
+### Projects 
+This is a list of my finished projects. 
+- [Context-Aware Tunable Music Generation](https://github.com/KarenMars/TUD_MMSR)
+- [Software Architecture Analysis of an open source software, NVDA](https://2021.desosa.nl/projects/nvda/)
+- [High Performance Data Networking](https://github.com/KarenMars/TUD_HPDN)
+- [Indoor Positioning Android App](https://github.com/KarenMars/TUD_SPS)
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KarenMars)](https://github.com/anuraghazra/github-readme-stats)
