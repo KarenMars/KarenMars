@@ -21,7 +21,7 @@ This is a list of my finished projects.
 - [Software Architecture Analysis of an open source software, NVDA](https://2021.desosa.nl/projects/nvda/)
 - [High Performance Data Networking](https://github.com/KarenMars/TUD_HPDN)
 - [Indoor Positioning Android App](https://github.com/KarenMars/TUD_SPS)
-
+- [Speech Enhancement](https://github.com/KarenMars/TUD_SDSP)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KarenMars)](https://github.com/anuraghazra/github-readme-stats)
 
