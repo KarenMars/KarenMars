@@ -6,9 +6,18 @@
 
 Welcome to my Github page! 
 
-I'm KarenMars and I am currently finishing my Embedded Systems Master degree at Delft University of Technology! I am open to job opportunities related to machine learning and deep learning. 
+I'm KarenMars and I am currently finishing my Embedded Systems Master degree at Delft University of Technology. 
 
-#### Skills 
+I am open to job opportunities related to machine learning and deep learning. To be specfic, my master thesis is about automatic speech recognition. I would be happy to start my career in the field of speech after my graduation. You can contact me via LinkedIn if you have a related opportunity to offer, thank you. 
+
+### Skills  
+**Programming languages:** Python, Bash
+
+**Tools:** Pytorch，Kaldi
+
+**Operating Systems:** Linux
+
+
 
 
 
