@@ -23,6 +23,11 @@ This is a list of my finished projects.
 - [Indoor Positioning Android App](https://github.com/KarenMars/TUD_SPS)
 - [Speech Enhancement](https://github.com/KarenMars/TUD_SDSP)
 
+### Something else ......
+:books: [What am I reading now ?](https://karenmars.notion.site/726bab93534a449c89b5ddb68018bb88?v=d694b3064e5546a2a4910b6acc1d5277)
+
+
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KarenMars)](https://github.com/anuraghazra/github-readme-stats)
 
 
