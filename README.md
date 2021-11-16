@@ -24,7 +24,7 @@ This is a list of my finished projects.
 - [Speech Enhancement](https://github.com/KarenMars/TUD_SDSP)
 
 ### Something else ......
-:spider_web: [My personal blog](https://karenmars.notion.site/KarenMars-079ea4c295aa401f8e3c26fd6dc439d3)
+:spider_web:  [My personal blog](https://karenmars.notion.site/KarenMars-079ea4c295aa401f8e3c26fd6dc439d3)
 
 
 
