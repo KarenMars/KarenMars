@@ -28,6 +28,7 @@ Finished projects.
 
 ### Something else ......
 - [My personal blog](https://karenmars.notion.site/KarenMars-079ea4c295aa401f8e3c26fd6dc439d3)
+- [Leetcode biweekly contest](https://karenmars.notion.site/Leetcode-in-Python-6173d5970fe14d378064940205871992)
 
 
 
