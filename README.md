@@ -12,7 +12,7 @@ I am open to job opportunities related to machine learning and deep learning. To
 
 ### Skills  
 - **Programming languages:** Python, Bash
-- **Tools:** Pytorch, Kaldi
+- **Tools:** Pytorch, Kaldi, ESPnet
 - **Operating systems:** Linux
 
 ### Projects
