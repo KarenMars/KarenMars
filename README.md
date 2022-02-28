@@ -29,7 +29,7 @@ Finished projects.
 
 ### Something else ......
 - [My personal blog](https://karenmars.notion.site/KarenMars-079ea4c295aa401f8e3c26fd6dc439d3)
-
+- [My reading list for papers related to ASR and my interested areas](https://karenmars.notion.site/Reading-List-274c5edf3b404e38b5ec544d3f93817f)
 
 
 <!--
