@@ -17,8 +17,7 @@ I am open to job opportunities related to machine learning and deep learning. To
 
 ### Projects
 Ongoing project.
-- [Thesis work](https://odettescharenborg.wordpress.com/hias-lab/); [2022 INTERSPEECH](https://github.com/KarenMars/IS22_Code)
-
+- [Thesis work](https://odettescharenborg.wordpress.com/hias-lab/);
 Finished projects. 
 - [Context-Aware Tunable Music Generation](https://github.com/KarenMars/TUD_MMSR)
 - [Software Architecture Analysis of an open source software, NVDA](https://2021.desosa.nl/projects/nvda/)
