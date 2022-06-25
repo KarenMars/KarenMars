@@ -17,7 +17,7 @@ I am open to job opportunities related to machine learning and deep learning. To
 
 ### Projects
 Ongoing project.
-- [Thesis work](https://odettescharenborg.wordpress.com/hias-lab/);
+- [Thesis work](https://odettescharenborg.wordpress.com/hias-lab/), [Thesis report](https://repository.tudelft.nl/islandora/object/uuid%3A9ef2894f-55ae-4740-a487-bde310fc9159?collection=education)
 
 Finished projects. 
 - [Context-Aware Tunable Music Generation](https://github.com/KarenMars/TUD_MMSR)
