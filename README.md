@@ -16,10 +16,9 @@ I am open to job opportunities related to machine learning and deep learning. To
 - **Operating systems:** Linux
 
 ### Projects
-Ongoing project.
-- [Thesis work](https://odettescharenborg.wordpress.com/hias-lab/), [Thesis report](https://repository.tudelft.nl/islandora/object/uuid%3A9ef2894f-55ae-4740-a487-bde310fc9159?collection=education), [Preprint](https://arxiv.org/abs/2206.12489)
 
 Finished projects. 
+- [Thesis work](https://odettescharenborg.wordpress.com/hias-lab/), [Thesis report](https://repository.tudelft.nl/islandora/object/uuid%3A9ef2894f-55ae-4740-a487-bde310fc9159?collection=education), [Preprint](https://arxiv.org/abs/2206.12489)
 - [Context-Aware Tunable Music Generation](https://github.com/KarenMars/TUD_MMSR)
 - [Software Architecture Analysis of an open source software, NVDA](https://2021.desosa.nl/projects/nvda/)
 - [High Performance Data Networking](https://github.com/KarenMars/TUD_HPDN)
