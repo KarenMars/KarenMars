@@ -6,7 +6,7 @@
 
 Welcome to my Github page! 
 
-I'm KarenMars and I am a AI/ML algorithm engineer in NXP. Before I joined NXP, I worked as an algorithm engineer in the field of NLP in iFlytek, a Chinese company who provides AI services. I obtained my Embedded Systems Master's degree from Delft University of Technology.
+I'm KarenMars and I am a AI/ML algorithm engineer in NXP. Before I joined NXP, I worked as an NLP algorithm engineer in the field of NLP in iFlytek, a Chinese company who provides AI services. I obtained my Embedded Systems Master's degree from Delft University of Technology.
 
 I am interested in utilizing artificial intelligence techniques for real-life problems, for example, automatic speech recognition and natural language processing. 
 
